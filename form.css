@@ -1,0 +1,50 @@
+body
+
+
+fieldset{
+    width: 500px;
+    border-radius: 10px;
+    margin: 100px auto;
+    background:rgba(0,0,0,.6)
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+    color: rgb(246, 32, 8);
+    text-align: center;
+    text-decoration: underline;
+}
+#btn,#rst
+{
+    color:blue;
+    font-size: 20px;
+    background-color: yellow;
+    border-radius: 10px;
+
+    
+
+}
+div{
+    border:2px solid rgb(232, 10, 10);
+    height: 700px;
+    width: 600px;
+    margin: 0px auto;
+    background: rgba(0,0,0,.7);
+    border-radius: 10px;
+}
+td{
+    padding: 5px;
+    
+}
+
+body{
+    color: white;
+}
+
+
+
+
+
+
+
